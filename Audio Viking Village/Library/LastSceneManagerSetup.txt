@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Viking Village/Scenes/The_Viking_Village.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
